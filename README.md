@@ -18,4 +18,10 @@ A `Java Swing` based application to build and edit 2D floorplans.
 ## Preview
 ![screenshot](screenshot.png)
 
+## Contributors
+- Pranav P Jagathpathy
+- Mahadevan M
+- R Tarun Kumar
+- Lokesh Lakshminarayanan 
+
 This project was made for an evaluation component of a course, and is released under the [MIT License](LICENSE).
