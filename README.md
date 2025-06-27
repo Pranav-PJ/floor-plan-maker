@@ -1,4 +1,4 @@
-# floor-plan-maker
+# Floor-plan-maker
 A `Java Swing` based application to create and edit 2D floorplans.
 
 ## Features
